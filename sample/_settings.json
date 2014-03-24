@@ -1,0 +1,37 @@
+{
+	"// アプリ" : "--------------------------------------------------------------------------"
+	"NAME":					"Test",
+	"ID":					"com.sonicmoov.mini.Test",
+	"APPLICATION_NAME":		"フグッピーふぐTEST",
+	"DISPLAY_NAME":			"フグッピーTEST",
+	"URL_SCHEME":			"test",
+
+	"// 広告" : "--------------------------------------------------------------------------"
+	"AD_ADGENERATION_IOS_BANNER":		"11723",
+	"AD_ADGENERATION_IOS_ICON":			"11722",
+	"AD_ADGENERATION_ANDROID_BANNER":	"11723",
+	"AD_ADGENERATION_ANDROID_ICON":		"11722",
+	"AD_AID_IOS":						"www.sonicmoov.codzGr",
+	"AD_AID_ANDROID":					"www.sonicmoov.codzGr",
+	"AD_APPLIPROMOTION_IOS":			"94U4BER2V459F8HM",
+	"AD_APPLIPROMOTION_ANDROID":		"XTZQERXVNPEWXBQV",
+	"AD_BEAD_IOS_TITLE":				"0d254c2a970be1021481bcc7cba0648df3416e7a747df5bb",
+	"AD_BEAD_IOS_GAME":					"0d254c2a970be102afd78c1518dbf66e3e7e581a0aab8ded",
+	"AD_BEAD_IOS_RESULT":				"0d254c2a970be10267e89e877ec0ec09fb848e26fccddaf7",
+	"AD_BEAD_ANDROID_TITLE":			"0d254c2a970be1021481bcc7cba0648df3416e7a747df5bb",
+	"AD_BEAD_ANDROID_GAME":				"0d254c2a970be102afd78c1518dbf66e3e7e581a0aab8ded",
+	"AD_BEAD_ANDROID_RESULT":			"0d254c2a970be10267e89e877ec0ec09fb848e26fccddaf7",
+	"AD_BEAD_ANDROID_EXIT":				"0d254c2a970be10267e89e877ec0ec09fb848e26fccddaf7",
+	"AD_GAMEFEAT_IOS":					"4876",
+	"AD_GAMEFEAT_ANDROID":				"4876",
+	"AD_IMOBILE_IOS_PUBLISHER_ID":		16101,
+	"AD_IMOBILE_IOS_MEDIA_ID":			91086,
+	"AD_IMOBILE_IOS_SPOT_ID_ICON":		195952,
+	"AD_IMOBILE_ANDROID_PUBLISHER_ID":	16101,
+	"AD_IMOBILE_ANDROID_MEDIA_ID":		91086,
+	"AD_IMOBILE_ANDROID_SPOT_ID_ICON":	195952,
+	"AD_NEND_IOS_KEY": 					"1ad665753ae9ac80f29211c5eaaa956d37e85b57",
+	"AD_NEND_IOS_SID_BANNER":			"141131",
+	"AD_NEND_ANDROID_KEY": 				"1ad665753ae9ac80f29211c5eaaa956d37e85b57",
+	"AD_NEND_ANDROID_SID_BANNER":		141131
+}
